@@ -1,7 +1,0 @@
-*Busca un video como abrir en el configuration manager
-o si ya lo tienes no es necesario*
-importa las librerías de jcalendar y el mssql-... en el proyecto
-
---Carpeta auth--
-depende de los bits de tu computadora entre a la carpeta y el archivo que esta dentro pegalo dentro de system32
-
